@@ -86,6 +86,7 @@ Collate:
     'bin.R'
     'coord-.r'
     'coord-cartesian-.r'
+    'coord-cartesian-ctlfreak.r'
     'coord-fixed.r'
     'coord-flip.r'
     'coord-map.r'
